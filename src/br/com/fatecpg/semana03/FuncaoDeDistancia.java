@@ -7,7 +7,7 @@ public class FuncaoDeDistancia {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a Palavra: ");
         String palavra = scanner.nextLine();
-        System.out.print("Dicionario: ");
+        System.out.print("Digite o Dicionario: ");
         String dicionario = scanner.nextLine();
         
         //String dicionario = "Santos";
